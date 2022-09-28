@@ -1,12 +1,12 @@
 # Tổng hợp các trang tải tài liệu tốt
 
-Danh sách các trang web tải tài liệu miễn phí tốt nhất mà học sinh, sinh viên, giảng viên, nghiên cứu sinh nên biết.
+Danh sách các trang web tải sách, báo miễn phí tốt nhất mà học sinh, sinh viên, giảng viên, nghiên cứu sinh nên biết.
 # Danh sách
 - [Zlibrary](#1-zlibrary)
 - [Sci-hub](#2-sci-hub)
 - [Libgen](#3-libgen-library-genesis)
 - [Pdfdrive](#4-pdfdrive)
-## 1. ZLibrary
+## 1. Tài liệu tại ZLibrary
 
 ![zlibrary](https://vn1lib.org/img/logo.zlibrary.png "Zlibrary")
 
@@ -34,4 +34,4 @@ Trang web tìm kiếm, xem và tải các loại sách không quảng cáo và k
 Link trang web: [Pdfdrive](https://www.pdfdrive.com)
  
 # Tổng kết
-Trên đây là những trang web mà mình đã sử dụng để tìm kiếm, tra cứu và tải xuống các tài liệu, bài báo phục vụ cho việc nghiên cứu và chạy deadline ở môi trường đại học. Hi vọng bài viết này có thể giúp ích cho những người chưa biết tải tài liệu ở đâu được đầy đủ và tốt nhất.
+Trên đây là những trang web mà mình đã sử dụng để tìm kiếm, tra cứu và tải xuống các sách, bài báo phục vụ cho việc nghiên cứu và chạy deadline ở môi trường đại học. Hi vọng bài viết này có thể giúp ích cho những người chưa biết tải tài liệu ở đâu được đầy đủ và tốt nhất.

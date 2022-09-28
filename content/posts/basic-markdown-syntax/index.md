@@ -1,21 +1,27 @@
 ---
-weight: 4
-title: "Cú pháp Markdown cơ bản"
+weight: 2022-09-28T05:50:15.896Z
+title: Cú pháp Markdown cơ bản
 date: 2022-09-26T21:57:40+08:00
-lastmod: 2022-09-26T22:45:40+08:00
+lastmod: 2022-09-28T05:55:36.535Z
 draft: false
-author: "Chu Văn Hưng"
-authorLink: "https://hungs20.github.io"
-description: "Bài viết chia sẻ các cú pháp cơ bản về markdown"
+author: Chu Văn Hưng
+authorLink: https://hungs20.github.io
+description: Bài viết chia sẻ các cú pháp cơ bản về markdown
 images: []
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+  - name: featured-image
+    src: featured-image.png
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]
+tags:
+  - Markdown
+  - HTML
+categories:
+  - Markdown
 
 lightgallery: true
+keywords:
+  - markdown
+slug: cu-phap-markdown-cơ-bản
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
